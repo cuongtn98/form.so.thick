@@ -1,0 +1,14 @@
+table {
+    width: 500px;
+    background-color: #e8ebee;
+}
+ tr {
+     border: 1px solid;
+     border-collapse: collapse;
+ }
+ .text-user {
+     color: blue;
+    text-align: right;
+ }
+ .chose { color: #d38319;
+ }
